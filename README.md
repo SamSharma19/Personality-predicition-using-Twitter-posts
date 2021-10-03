@@ -23,13 +23,16 @@ The dataset used for this project is available on kaggle (https://www.kaggle.com
   
 ## Some outputs of the project - 
  => The interface
+ 
     ![Capture](https://user-images.githubusercontent.com/62378826/135751286-59439b38-4dc5-4b12-9975-e2dd721918d3.PNG)
     
  => Predicting personality using entered text
+ 
     ![Capture 1](https://user-images.githubusercontent.com/62378826/135751294-0eef4f89-273a-49f2-945e-878a282219c7.PNG)
     ![Capture 2](https://user-images.githubusercontent.com/62378826/135751297-cf147fc4-3ec3-424e-b566-28663076aa63.PNG)
  
- => Predicting personality type of the entered twitter user handle and also personlaity type of 5 of random followers
+ => Predicting personality type of the entered twitter user handle and also personality type of 5 of random followers
+ 
     ![Capture 4](https://user-images.githubusercontent.com/62378826/135751300-95153db1-0505-4f62-b64c-7cf37d44b07c.PNG)
     ![Capture 5](https://user-images.githubusercontent.com/62378826/135751302-12de94f8-40e4-4b28-a727-7a2ed6ceb390.PNG)
     ![Capture 6](https://user-images.githubusercontent.com/62378826/135751306-284b02c9-45c0-464e-8391-fc81b08b4171.PNG)
