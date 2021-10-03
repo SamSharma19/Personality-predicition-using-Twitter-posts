@@ -21,7 +21,8 @@ The dataset used for this project is available on kaggle (https://www.kaggle.com
     3.  After than simply hit the loop back link of flask and then use the created project.
 
   
-## Some outputs of the project
+## Some outputs of the project -
+
 
 
   
