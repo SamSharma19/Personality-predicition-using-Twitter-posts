@@ -1,7 +1,9 @@
-ck = "HKHR55OCG8j3KyAlbSImU0TJG"
-cks = "t5NTCOBtjxa0TSmYGZt1BsF6BQIroPR4NJsg29trvvH35ENNY0"
-at = "1268190969767198722-jp1szCe5glvsR3ebqsF9SyEUYHIr5H"
-ats = "3Llbw8gBUWJtHcyX9PPsVEnLqWS78SqZmbqGNksmq8qHG"
+ck = ""
+cks = ""
+at = ""
+ats = ""
+
+////get your auth keys by registering to tweepy////
 
 from tweepy import API 
 from tweepy import Cursor
