@@ -1,5 +1,5 @@
 
-# Personality prediction using Twitter Posts
+# Personality Prediction using Twitter Posts
 In this project we predicted the Myer Briggs personality type of the person by analysing the recent tweets made by the person in real time.
 
 This project was solely made to help the recruiters to better understand the individuals they are interacting with the first time and also get to know wether they are suitable for the job role by analysing their personality in the informal environment (social media).
