@@ -23,7 +23,6 @@ The dataset used for this project is available on kaggle (https://www.kaggle.com
   
 ## Some outputs of the project - 
  * The interface
- 
     ![Capture](https://user-images.githubusercontent.com/62378826/135751286-59439b38-4dc5-4b12-9975-e2dd721918d3.PNG)
     
  * Predicting personality using entered text
